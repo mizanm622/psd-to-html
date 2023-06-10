@@ -1,0 +1,333 @@
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1400px) {
+    .service_box {
+        width: 20%;
+       
+    }
+    .team_box {
+        width: 19%;
+    
+    }
+    .skill_box {
+        width: 19%;
+       
+    }
+    .portfolio_box {
+        width: 46%;
+       
+    }
+    .portfolio_box img {
+        width: 350px;
+        height: 250px;
+    }
+    .comment_box {
+       
+        margin: 70px auto;
+    }
+    .link_area a {
+        font-size: 23px;
+       
+    }
+    .link_area {
+        width: 23%;
+        padding: 10px 0px;
+        text-align: left;
+    }
+
+    
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+    .service_box {
+        width: 20%;
+       
+    }
+    .team_box {
+        width: 19%;
+    
+    }
+    .skill_box {
+        width: 19%;
+       
+    }
+    .portfolio_box {
+        width: 46%;
+       
+    }
+    .portfolio_box img {
+        width: 350px;
+        height: 250px;
+    }
+    .comment_box {
+       
+        margin: 70px auto;
+    }
+    .link_area a {
+        font-size: 23px;
+       
+    }
+    .link_area {
+        width: 23%;
+        padding: 10px 0px;
+        text-align: left;
+    }
+
+    
+}
+
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+    .header_menu nav {
+        display: none;
+    }
+
+    .header_sticky_menu_bar i{
+        display: block;
+        text-align: right;
+        }
+        
+        .header_sticky_menu_bar i {
+            font-size: 35px;
+            color: #fff;
+        }
+        .service_box {
+            width: 44%;
+           
+        }
+        .team_box {
+            width: 42%;
+           
+        }
+        .skill_box {
+            width: 43%;
+       
+        }
+        .portfolio_box {
+            width: 46%;
+          
+        }
+        .portfolio_box img {
+            width: 300px;
+            height: 180px;
+        }
+       
+        .header_title h2 {
+            word-spacing: 2px;
+        }
+        .img_box img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+        }
+        .comment_box {
+        
+            margin: 60px auto;
+        }
+        .link_area {
+            width: 23%;
+            padding: 10px 0px;
+            text-align: left;
+        }
+        .link_area a {
+            font-size: 20px;
+         
+        }
+        .link_area a i {
+            padding: 2px;
+          
+        }
+
+    
+    }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+    .content{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .content h2{
+    
+        font-size: 23px;
+        font-weight: 600;
+      
+    }
+    .content_area {
+        padding: 70px 0px;
+        margin: auto;
+    }
+    .btn {
+        font-size: 13px;
+        padding: 15px 30px;
+        border-bottom: 3px solid #BF6D3F;
+       
+    }
+    .header_title h2 {
+        font-size: 30px;
+        word-spacing: 5px;
+    }
+    .header_description p {
+        font-size: 16px;
+
+    }
+    .header_title:after {
+      
+        border: 2px solid #17A48C;
+        width: 55px;
+    
+    }
+    .service_box {
+        width: 100%;
+    }
+    .team_box {
+        width: 100%;
+    }
+    .skill_box {
+        width: 100%;
+    }
+    .portfolio_box{
+        width: 100%;
+    }
+    .customer_comment_header {
+        padding-bottom: 30px;
+    }
+    .comment_box {
+        width: 100%;
+        margin: 40px auto
+
+    }
+    .img_box {
+        width: 30%;
+    
+    }
+    .img_box img {
+        width: 110px;
+        height: 110px;
+        border-radius: 50%;
+    }
+    .content_box {
+        width: 70%;
+       
+    }
+    .firsr_input_field {
+        width: 100%;
+        padding-bottom: 15px;
+    }
+    .second_input_field {
+        width: 100%;
+       
+    }
+    .second_input_field label {
+      
+        top: 12px;
+        left: 5px;
+       
+    }
+    .input_message_area textarea {
+        width: 98%;
+
+    }
+    .input_message_area label {
+        top: 138px;
+    }
+    .link_area {
+        width: 48%;
+        padding: 10px 0px;
+        text-align: left;
+    }
+    .link_area a {
+        font-size: 24px;
+     
+    }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .header_logo img {
+        width: 80px;
+        height: auto;
+    }
+    .header_sticky_menu_bar i {
+        font-size: 30px;
+        
+    }
+    .content_area {
+        padding: 50px 0px;
+       
+    }
+    .content h2 {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .btn {
+        font-size: 12px;
+        padding: 10px 20px;
+        border-bottom: 2px solid #BF6D3F;
+    }
+    .header_title h2 {
+        font-size: 25px;
+        word-spacing: 5px;
+    }
+    .service_box img {
+        width: 75px;
+        height: 85px;
+    }
+    .service_box h3 {
+        font-size: 20px;
+      
+    }
+    .team_box img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+    }
+    .team_box h3 {
+        font-size: 20px;
+        
+    }
+    .team_box h5 {
+        font-size: 16px;
+        
+    }
+    .skill_box img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+    }
+    .skill_box h3 {
+        font-size: 20px;
+   
+    }
+    .portfolio_menu ul li a {
+        padding: 5px 12px;
+        font-size: 16px;
+    
+    }
+    .portfolio_box img {
+        width: 280px;
+        height: 170px;
+    }
+    .img_box {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content_box {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content_box p {
+      padding: 0px;
+    }
+    .link_area a {
+        font-size: 20px;
+    }
+}
+
+
